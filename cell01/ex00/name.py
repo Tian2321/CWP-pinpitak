@@ -1,3 +1,3 @@
 first_name = "parid"
 last_name = "inpitak"
-print(first_name + " " + last_name)
+print(f"{first_name} {last_name}")
